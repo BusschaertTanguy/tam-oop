@@ -5,3 +5,5 @@
 [2. Objets et Java](./src/chapitre_002/readme.md)
 
 [3. Abstraction procédurale](./src/chapitre_003/readme.md)
+
+[4. Exceptions](./src/chapitre_004/readme.md)
